@@ -68,11 +68,10 @@ pip install -r requirements.txt
    ```bash
    cd stock-price-prediction
    ```
-3. Run the preprocessing script:
-   ```bash
-   python scripts/preprocess.py
-   ```
-4. Train models using the provided notebooks or scripts.
+3. Update the Path of stock_price.csv
+4. Ensure that lstm22.keras and finalRF2.pkl file and stock_price_prediction_by_Saurav_Raj.ipynb have the same directory
+5. Train models using the provided notebooks or scripts.
+
 
 ## Results
 - **Random Forest Testing MAE**: 0.8536
