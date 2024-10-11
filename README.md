@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction.git
+   git clone https://github.com/sauravraj188/stock-price-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
