@@ -43,12 +43,6 @@ This project focuses on predicting NTT stock prices using various machine learni
    - The **Ensemble Model** provided the most accurate predictions.
    - Future work includes experimenting with **Transformer-Based Models** for better long-term prediction and incorporating **macroeconomic indicators**.
 
-## Repository Structure
-- **data/**: Contains the historical stock data.
-- **notebooks/**: Jupyter notebooks showing data exploration, preprocessing, and model training.
-- **models/**: Saved model files for the trained models.
-- **scripts/**: Python scripts for preprocessing, training, and evaluation.
-- **README.md**: Project overview and instructions.
 
 ## Requirements
 - Python 3.8+
